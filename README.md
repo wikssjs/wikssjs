@@ -3,7 +3,7 @@
 
 <img align = "right" alt="coding" width = "400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 👨‍💻 All of my projects are available at [https://jamesbell.vercel.app](Jamesbell.vercel.app)
+- 👨‍💻 All of my projects are available at [https://jamesbell.vercel.app](https://Jamesbell.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
